@@ -11,5 +11,5 @@ For the purpose of CS50 Project 0, I created this google search clone. It has fu
 
 
 
-Here is the demonstration of how it is working : 
+Here is the demonstration of how it works : 
 <a href="https://www.youtube.com/watch?v=JnTssVgWuYA&ab_channel=YatoAki"> Go to youtube </a>
